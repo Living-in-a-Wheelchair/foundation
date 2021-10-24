@@ -1,6 +1,5 @@
 # The Faulkner Foundation: Vision Statement
-### Written by Roger Faulkner
-### February 23, 2021
+### Written by Roger Faulkner on February 23, 2021
 ###### [Original Post](https://roger-rethinker.medium.com/the-faulkner-foundation-64207a766f1f)
 
 This foundation is aimed at out-of-the-box solutions which are not being funded due to current paradigms. At this point, the Faulkner Foundation is only an idea. There is a lot of paperwork involved with forming a 501c3. I am considering creating a doing-business-as registration under Rethink Technologies called Rethink ALS to simplify the reporting requirements. This would allow me to get started on the first few projects without forming a nonprofit corporation first.
