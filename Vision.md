@@ -1,5 +1,5 @@
 # The Faulkner Foundation: Vision Statement
-### By Roger Faulkner
+### Written by Roger Faulkner
 ### February 23, 2021
 ###### [Original Post](https://roger-rethinker.medium.com/the-faulkner-foundation-64207a766f1f)
 
